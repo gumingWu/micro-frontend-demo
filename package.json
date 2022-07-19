@@ -1,0 +1,21 @@
+{
+  "name": "micro-frontend-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "single-spa": "pnpm serve --filter @micro/single-spa",
+    "qiankun": "pnpm serve --filter @micro/qiankun",
+    "app1": "pnpm serve --filter @micro/app1",
+    "app2": "pnpm serve --filter @micro/app2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vue/cli": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
+    "typescript": "^4.7.4",
+    "vue": "^3.2.37"
+  }
+}
