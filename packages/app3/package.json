@@ -1,0 +1,12 @@
+{
+  "name": "@micro/app3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vue.config.js",
+  "scripts": {
+    "serve": "vue-cli-service serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

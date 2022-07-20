@@ -7,7 +7,9 @@
     "single-spa": "pnpm serve --filter @micro/single-spa",
     "qiankun": "pnpm serve --filter @micro/qiankun",
     "app1": "pnpm serve --filter @micro/app1",
-    "app2": "pnpm serve --filter @micro/app2"
+    "app2": "pnpm serve --filter @micro/app2",
+    "app3": "pnpm serve --filter @micro/app3",
+    "app4": "pnpm serve --filter @micro/app4"
   },
   "keywords": [],
   "author": "",

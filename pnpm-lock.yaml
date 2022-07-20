@@ -20,6 +20,9 @@ importers:
     dependencies:
       qiankun: 2.7.4
 
+  packages/single-spa:
+    specifiers: {}
+
 packages:
 
   /@achrinza/node-ipc/9.2.5:
